@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Excel / Data files
+*.csv
+*.xls*
+*.xlsx
+
+# Tableau
+*.twb
+*.twbx
+
+# Databases
+*.sqlite3
+*.db
+
+# Logs
+*.log
